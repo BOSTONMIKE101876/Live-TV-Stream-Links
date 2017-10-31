@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1, ----- SWEDEN CHANNELS -----
+https://www.firstonetv.watch/Live/Sweden
+#EXTINF:-1, 24 Corren
+http://lw-ntm-live.lwcdn.com/live/amlst:2df87a73-e998-4be4-b469-8e1614976f3c_all/f1tv.m3u8
+#EXTINF:-1, 24nt
+http://lw-ntm-live.lwcdn.com/live/amlst:927d03d8-a324-4bfb-9dd9-8e5fccd6ab29_all/f1tv.m3u8
+#EXTINF:-1, Himlen TV7
+http://vod.tv7.fi:1935/tv7-se/smil:tv7-se.smil/playlist.m3u8
+#EXTINF:-1, Kanal 10 Asia
+http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
+#EXTINF:-1, Kanal 10 Sverige
+http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/f1tv.m3u8
+#EXTINF:-1, LifeStyle TV
+http://stream1.lifestyletv.se:1935/live/livestream3/f1tv.m3u8
+#EXTINF:-1, Miracle Channel
+http://live-api.miraclechannel.com/hls/miracle1.m3u8
+#EXTINF:-1, Öppna Kanalen Stockholm (ÖKS)
+http://80.252.162.14/edge/_451iw2h_/451iw2h/f1tv.m3u8
